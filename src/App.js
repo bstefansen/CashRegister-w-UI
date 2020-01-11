@@ -8,7 +8,7 @@ class MyApp extends React.Component {
       price: '',
       cash: '',
       cid: '',
-      remainder: '',
+      change: '',
       return: '{status: "OPEN", change: [["QUARTER", 0.5]]}'
     };
     this.handlePrice = this.handlePrice.bind(this);
@@ -52,7 +52,7 @@ class MyApp extends React.Component {
     var valArr = [0.01, 0.05, 0.1, 0.25, 1, 5, 10, 20, 100]
     var remainder = this.state.cash - this.state.price;
     this.setState({
-      remainder: this.state.cash - this.state.price
+      change: this.state.cash - this.state.price
     })
     var used = [["PENNY", 0],["NICKEL", 0],["DIME", 0],["QUARTER", 0],["ONE", 0],["FIVE", 0],["TEN", 0],["TWENTY", 0],["ONE HUNDRED", 0]]
     for (let i = valArr.length - 1; i >= 0; i--) {
@@ -104,7 +104,7 @@ class MyApp extends React.Component {
         <h2>Cash: ${this.state.price}</h2>
         <h2>Price: ${this.state.cash}</h2>
         <h2>Cash in drawer: {this.state.cid}</h2>
-        <h2>Remainder: ${this.state.remainder}</h2>
+        <h2>Change: ${this.state.change}</h2>
         <p>{this.state.return}</p>
        </div>
      </div>
