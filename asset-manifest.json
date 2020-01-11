@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CashRegister-w-UI/static/css/main.5197ceae.chunk.css",
-    "main.js": "/CashRegister-w-UI/static/js/main.531fc089.chunk.js",
-    "main.js.map": "/CashRegister-w-UI/static/js/main.531fc089.chunk.js.map",
+    "main.js": "/CashRegister-w-UI/static/js/main.10c8d5cc.chunk.js",
+    "main.js.map": "/CashRegister-w-UI/static/js/main.10c8d5cc.chunk.js.map",
     "runtime-main.js": "/CashRegister-w-UI/static/js/runtime-main.9630a35a.js",
     "runtime-main.js.map": "/CashRegister-w-UI/static/js/runtime-main.9630a35a.js.map",
     "static/js/2.585d8809.chunk.js": "/CashRegister-w-UI/static/js/2.585d8809.chunk.js",
     "static/js/2.585d8809.chunk.js.map": "/CashRegister-w-UI/static/js/2.585d8809.chunk.js.map",
     "index.html": "/CashRegister-w-UI/index.html",
-    "precache-manifest.36f3e656aba559cebd89733fc263a8bd.js": "/CashRegister-w-UI/precache-manifest.36f3e656aba559cebd89733fc263a8bd.js",
+    "precache-manifest.fb50c2974dccea1ba8ae40611ca7210c.js": "/CashRegister-w-UI/precache-manifest.fb50c2974dccea1ba8ae40611ca7210c.js",
     "service-worker.js": "/CashRegister-w-UI/service-worker.js",
     "static/css/main.5197ceae.chunk.css.map": "/CashRegister-w-UI/static/css/main.5197ceae.chunk.css.map",
     "static/js/2.585d8809.chunk.js.LICENSE": "/CashRegister-w-UI/static/js/2.585d8809.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9630a35a.js",
     "static/js/2.585d8809.chunk.js",
     "static/css/main.5197ceae.chunk.css",
-    "static/js/main.531fc089.chunk.js"
+    "static/js/main.10c8d5cc.chunk.js"
   ]
 }

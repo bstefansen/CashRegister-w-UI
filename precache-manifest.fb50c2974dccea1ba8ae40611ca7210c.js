@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5878c903772859b24fc1ca037a1acbb7",
+    "revision": "b60d83f19f8ea2ac2520f70990ed498a",
     "url": "/CashRegister-w-UI/index.html"
   },
   {
-    "revision": "30c8800dd083a748fa6d",
+    "revision": "b4a8a885a003b59bb316",
     "url": "/CashRegister-w-UI/static/css/main.5197ceae.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CashRegister-w-UI/static/js/2.585d8809.chunk.js.LICENSE"
   },
   {
-    "revision": "30c8800dd083a748fa6d",
-    "url": "/CashRegister-w-UI/static/js/main.531fc089.chunk.js"
+    "revision": "b4a8a885a003b59bb316",
+    "url": "/CashRegister-w-UI/static/js/main.10c8d5cc.chunk.js"
   },
   {
     "revision": "d982d06b45ca0ef4b265",

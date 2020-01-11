@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CashRegister-w-UI/precache-manifest.36f3e656aba559cebd89733fc263a8bd.js"
+  "/CashRegister-w-UI/precache-manifest.fb50c2974dccea1ba8ae40611ca7210c.js"
 );
 
 self.addEventListener('message', (event) => {
